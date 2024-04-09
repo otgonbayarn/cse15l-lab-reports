@@ -1,4 +1,4 @@
-For cd commands:
+For ```cd``` commands:
 
 1. ![Image](https://github.com/otgonbayarn/cse15l-lab-reports/blob/main/Screenshot%202024-04-08%20175657.png?raw=true)
 
