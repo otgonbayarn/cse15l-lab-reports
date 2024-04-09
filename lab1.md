@@ -1,6 +1,8 @@
 For ```cd``` commands:
 
-1. ![Image](https://github.com/otgonbayarn/cse15l-lab-reports/blob/main/Screenshot%202024-04-08%20175657.png?raw=true)
+1.
+
+![Image](https://github.com/otgonbayarn/cse15l-lab-reports/blob/main/Screenshot%202024-04-08%20175657.png?raw=true)
 
 Absolute path was cd /c/Users/nyamb/lecture1 before the command.
 
@@ -8,7 +10,9 @@ No output was shown, and since it was used without arguments it returned to home
 
 There was no output, and it was not an error.
 
-2. ![Image](https://github.com/otgonbayarn/cse15l-lab-reports/blob/main/Screenshot%202024-04-08%20175706.png?raw=true)
+2.
+
+![Image](https://github.com/otgonbayarn/cse15l-lab-reports/blob/main/Screenshot%202024-04-08%20175706.png?raw=true)
 
 Absolute path was /c/Users/nyamb before the command.
 
