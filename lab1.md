@@ -20,7 +20,9 @@ The command changed my current directery to my specified directory, /c/Users/nya
 
 There was no output, and it was not an error.
 
-3. ![Image](https://github.com/otgonbayarn/cse15l-lab-reports/blob/main/Screenshot%202024-04-08%20175718.png?raw=true)
+3.
+
+![Image](https://github.com/otgonbayarn/cse15l-lab-reports/blob/main/Screenshot%202024-04-08%20175718.png?raw=true)
 
 Absolute path was /c/Users/nyamb/lecture1/messages before the command.
 
@@ -31,7 +33,9 @@ There was an error, command cd expects directory but file was provided instead.
 
 For ```ls``` commands:
 
-1. ![Image](https://github.com/otgonbayarn/cse15l-lab-reports/blob/main/Screenshot%202024-04-08%20175807.png?raw=true)
+1.
+
+![Image](https://github.com/otgonbayarn/cse15l-lab-reports/blob/main/Screenshot%202024-04-08%20175807.png?raw=true)
 
 Absolute path was /c/Users/nyamb before the command.
 
@@ -39,7 +43,9 @@ The ```ls``` command was used without arguments, so it listed the files and fold
 
 The output provided the files and folders of current directory, so there was no error.
 
-2. ![Image](https://github.com/otgonbayarn/cse15l-lab-reports/blob/main/Screenshot%202024-04-08%20175817.png?raw=true)
+2.
+
+![Image](https://github.com/otgonbayarn/cse15l-lab-reports/blob/main/Screenshot%202024-04-08%20175817.png?raw=true)
 
 Absolute path was /c/Users/nyamb before the command.
 
@@ -47,7 +53,9 @@ The ```ls``` command was used with argument $ ls /c/Users/nyamb/lecture1/message
 
 The output provided the files and folders of current directory, so there was no error.
 
-3. ![Image](https://github.com/otgonbayarn/cse15l-lab-reports/blob/main/Screenshot%202024-04-08%20190118.png?raw=true)
+3.
+
+![Image](https://github.com/otgonbayarn/cse15l-lab-reports/blob/main/Screenshot%202024-04-08%20190118.png?raw=true)
 
 Absolute path was /c/Users/nyamb/lecture1/messages before the command.
 
@@ -57,7 +65,9 @@ The output provided error: No such file or directory. Because file was provided 
 
 For ```cat``` commands:
 
-1. ![Image](https://github.com/otgonbayarn/cse15l-lab-reports/blob/main/Screenshot%202024-04-08%20175913.png?raw=true)
+1.
+
+![Image](https://github.com/otgonbayarn/cse15l-lab-reports/blob/main/Screenshot%202024-04-08%20175913.png?raw=true)
 
 Absolute path was /c/Users/nyamb/lecture1/messages before the command.
 
@@ -65,7 +75,9 @@ The ```cat``` is used to print contents of files given by the paths, but this th
 
 There was no output, so thre is no error.
 
-2. ![Image]( https://github.com/otgonbayarn/cse15l-lab-reports/blob/main/Screenshot%202024-04-08%20180159.png?raw=true)
+2.
+
+![Image]( https://github.com/otgonbayarn/cse15l-lab-reports/blob/main/Screenshot%202024-04-08%20180159.png?raw=true)
 
 Absolute path was /c/Users/nyamb/lecture1/messages before the command.
 
@@ -73,7 +85,9 @@ The ```cat``` is used to print contents of files given by the paths, but we prov
 
 There is an error "cat: /c/Users/nyamb/lecture1/messages: Is a directory", because the command expects a file as an argument, but a directory was provided instead.
 
-3. ![Image](https://github.com/otgonbayarn/cse15l-lab-reports/blob/main/Screenshot%202024-04-08%20180211.png?raw=true)
+3.
+
+![Image](https://github.com/otgonbayarn/cse15l-lab-reports/blob/main/Screenshot%202024-04-08%20180211.png?raw=true)
 
 Absolute path was /c/Users/nyamb/lecture1/messages before the command.
 
