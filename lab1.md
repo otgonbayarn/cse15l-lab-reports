@@ -59,9 +59,9 @@ The output provided the files and folders of current directory, so there was no 
 
 Absolute path was ```/c/Users/nyamb/lecture1/messages before the command.```
 
-The ```ls``` command was used with argument $ ls en-us.txt, and gave output "No such file or directory". This was due to command ```ls``` expected directory as an argument, but a file was provided instead.
+The ```ls``` command was used with argument $ ls en-us.txt, and gave output "en-us.txt". This was due to command ```ls``` not only works with directory as an argument, but work with files provided as well.
 
-The output provided error: No such file or directory. Because file was provided in the argument instead of directory.
+The output provided the files and folders of current files, so there was no error.
 
 For ```cat``` commands:
 
