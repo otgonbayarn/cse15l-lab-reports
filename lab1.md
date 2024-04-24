@@ -4,7 +4,7 @@ For ```cd``` commands:
 
 ![Image](https://github.com/otgonbayarn/cse15l-lab-reports/blob/main/Screenshot%202024-04-08%20175657.png?raw=true)
 
-Absolute path was cd ```/c/Users/nyamb/lecture1 before the command.```
+Absolute path was ```/c/Users/nyamb/lecture1``` before the command ```cd```.
 
 No output was shown, and since it was used without arguments it returned to home directory.
 
