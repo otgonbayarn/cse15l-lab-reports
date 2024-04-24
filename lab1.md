@@ -55,7 +55,7 @@ The output provided the files and folders of current directory, so there was no 
 
 3.
 
-![Image](https://github.com/otgonbayarn/cse15l-lab-reports/blob/main/Screenshot%202024-04-08%20190118.png?raw=true)
+![Image](https://github.com/otgonbayarn/cse15l-lab-reports/blob/main/Screenshot%202024-04-24%20161020.png)
 
 Absolute path was ```/c/Users/nyamb/lecture1/messages before the command.```
 
