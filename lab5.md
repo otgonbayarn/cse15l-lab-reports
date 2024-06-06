@@ -4,7 +4,7 @@ Hello CS15L, My code compiles and runs, but it doesn't recognize the file. I am 
 
 ![Image](https://github.com/otgonbayarn/cse15l-lab-reports/blob/aa65299ca6c89a3a63ac73aebbf41954f6cb237c/Screenshot%202024-06-05%20221325.png?raw=true)
 
-![Image](https://github.com/otgonbayarn/cse15l-lab-reports/blob/783f594d06a637f09e3bec75d2cab4cddc5fab82/Screenshot%202024-06-05%20221653.png?raw=true)
+![Image](https://github.com/otgonbayarn/cse15l-lab-reports/blob/b2494bb79bb2dd9bd4548be32b735fa0b69b0282/Screenshot%202024-06-05%20225409.png?raw=true)
 
 TA:
 
