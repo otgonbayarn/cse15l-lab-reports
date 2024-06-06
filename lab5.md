@@ -22,7 +22,7 @@ Thank you for the help, I ran the program again with the relative path, and it w
 
 File and directory structure:
 ```
-    user/student
+    user/lab7
     ├── Code.java
     └── testfile.txt
     ``` 
